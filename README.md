@@ -51,24 +51,8 @@ The goal is to help a decision-maker quickly identify which brands are performin
 
 ## 📁 Project Structure
 
-luggage-dashboard/
-│
-├── data/
-│   ├── cleaned_data.csv
-│
-├── scraper/
-│   └── amazon_scraper.py        # (optional if scraping failed)
-│
-├── analysis/
-│   ├── preprocess.py
-│   └── sentiment.py
-│
-├── dashboard/
-│   └── app.py
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
+<img width="460" height="339" alt="image" src="https://github.com/user-attachments/assets/1bfbba68-e84c-467a-bf6c-4ad46a8fb695" />
+
 
 
 ---
